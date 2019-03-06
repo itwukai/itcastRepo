@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/JAVA基础课程/就业班/web/web课程/spring_day02/spring_day02/代码/spring_day02/day02_eesy_02account_xmlioc/day02_eesy_02account_xmlioc.iml" filepath="D:/JAVA基础课程/就业班/web/web课程/spring_day02/spring_day02/代码/spring_day02/day02_eesy_02account_xmlioc/day02_eesy_02account_xmlioc.iml" />
+      <module fileurl="file://D:/JAVA基础课程/就业班/web/web课程/spring_day02/spring_day02/代码/spring_day02/day02_eesy_03account_annoioc/day02_eesy_03account_annoioc.iml" filepath="D:/JAVA基础课程/就业班/web/web课程/spring_day02/spring_day02/代码/spring_day02/day02_eesy_03account_annoioc/day02_eesy_03account_annoioc.iml" />
+      <module fileurl="file://D:/JAVA基础课程/就业班/web/web课程/spring_day02/spring_day02/代码/spring_day02/day02_eesy_04account_annoioc_withoutxml/day02_eesy_04account_annoioc_withoutxml.iml" filepath="D:/JAVA基础课程/就业班/web/web课程/spring_day02/spring_day02/代码/spring_day02/day02_eesy_04account_annoioc_withoutxml/day02_eesy_04account_annoioc_withoutxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_spring_02Practice.iml" filepath="$PROJECT_DIR$/day02_spring_02Practice.iml" />
+    </modules>
+  </component>
+</project>
